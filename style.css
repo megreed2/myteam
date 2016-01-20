@@ -1,0 +1,27 @@
+h1 {
+	color: red;
+}
+h2 {
+  color: red;
+}
+.navbar-inverse {
+    color: white;
+    background-color: black;
+    border-color: black;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: white;
+    background-color: black;
+}
+img {
+  <center>
+}
+.navbar-inverse {
+  background-color: blue;
+  border-color: red;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+  color: white;
+  background-color: blue;
+}
+>>>>>>> origin/master
